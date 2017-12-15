@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushNotificationApp", "PushNotificationApp\PushNotificationApp.csproj", "{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Debug|ARM.ActiveCfg = Debug|ARM
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Debug|ARM.Build.0 = Debug|ARM
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Debug|ARM.Deploy.0 = Debug|ARM
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Debug|x64.ActiveCfg = Debug|x64
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Debug|x64.Build.0 = Debug|x64
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Debug|x64.Deploy.0 = Debug|x64
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Debug|x86.ActiveCfg = Debug|x86
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Debug|x86.Build.0 = Debug|x86
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Debug|x86.Deploy.0 = Debug|x86
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Release|ARM.ActiveCfg = Release|ARM
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Release|ARM.Build.0 = Release|ARM
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Release|ARM.Deploy.0 = Release|ARM
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Release|x64.ActiveCfg = Release|x64
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Release|x64.Build.0 = Release|x64
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Release|x64.Deploy.0 = Release|x64
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Release|x86.ActiveCfg = Release|x86
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Release|x86.Build.0 = Release|x86
+		{EBECF091-D5FA-4FF3-9AEB-8DE99F24122A}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB0FB176-E74F-46D2-9557-34A06F9CF63A}
+	EndGlobalSection
+EndGlobal
